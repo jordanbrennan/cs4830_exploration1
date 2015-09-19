@@ -17,7 +17,7 @@ I looked into various Python frameworks, content management systems, etc..., but
 - DjangoCMS (python CMS): http://www.django-cms.org/en/
 - Plone CMS (another python CMS): https://plone.org
 - **_Django_** (meatier web framework): https://www.djangoproject.com (also see http://www.fullstackpython.com/django.html )
-- Plenty of others out there: https://www.python.org/about/apps/#web-and-internet-development + http://www.fullstackpython.com/other-web-frameworks.html
+- Plenty of others out there: https://www.python.org/about/apps/#web-and-internet-development + https://wiki.python.org/moin/WebFrameworks/ 
 
 I did a little research on good IDEs for Python development, and one that several people recommended was PyCharm: http://www.jetbrains.com/pycharm/ (feel free to suggest others!).
 There are also Python plugins/modes available for Eclipse, Emacs, and many others...
